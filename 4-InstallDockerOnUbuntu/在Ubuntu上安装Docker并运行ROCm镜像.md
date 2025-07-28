@@ -105,7 +105,7 @@ sudo docker run -it \
 rocm-smi
 ```
 
-如果能看到 GPU 列表（如 gfx1100、gfx1036 等）及其状态，说明 ROCm 环境已在容器中成功加载。
+如果能看到 GPU 及其状态，说明 ROCm 环境已在容器中成功加载。
 
 ---
 
